@@ -5,7 +5,7 @@
  */
 package problemas;
 
-import static problemas.Problema1.imprimirDatos;
+
 
 /**
  *
